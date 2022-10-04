@@ -1,0 +1,47 @@
+#Digital-Marketing .dark-wrapper {
+  border: 2px solid gray !important;
+  padding: 30px;
+  height: 300px;
+}
+#Digital-Marketing .elementor-button {
+  background-color: #872891;
+  color: white;
+  background-color: #872891;
+  border-color: #872891;
+  height: 50px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#Digital-Marketing a {
+  text-decoration: none;
+  color: white;
+}
+#Digital-Marketing .elementor-button:hover {
+  background-color: white;
+}
+
+#Digital-Marketing .dark-wrapper1 {
+  border: 2px solid gray !important;
+  padding: 30px;
+}
+#Digital-Marketing .dark-wrapper1 .title1 {
+  background-color: #872891;
+  color: white;
+  background-color: #872891;
+  border-color: #872891;
+  height: 50px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#Digital-Marketing .dark-wrapper1 .title1 a {
+  text-decoration: none;
+  color: white;
+}
+
+.buttonhover {
+  color: black;
+}/*# sourceMappingURL=style.css.map */

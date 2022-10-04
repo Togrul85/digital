@@ -1,0 +1,67 @@
+#Digital-Marketing
+{
+    .dark-wrapper{
+        border: 2px solid gray !important; 
+        padding: 30px;
+        height: 300px;
+       
+    }
+    .elementor-button{    
+    background-color: #872891;
+   color: white;
+   background-color: #872891;
+   border-color: #872891;
+   height: 50px;
+   width: 100px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+     
+  
+    }
+    a{
+        text-decoration: none;
+        color: white;
+      
+    }
+    .elementor-button:hover{
+        background-color: white;
+    }
+   
+
+} 
+
+
+
+
+#Digital-Marketing{
+
+    .dark-wrapper1{
+        border: 2px solid gray !important;
+        padding: 30px;
+    
+    
+        .title1{
+            background-color: #872891;
+            color: white;
+            background-color: #872891;
+            border-color: #872891;
+            height: 50px;
+            width: 100px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            a{
+                text-decoration: none;
+                color: white;
+            }
+            
+        }
+    }
+    
+    }
+    .button{
+        &hover{
+            color: black;
+        }
+    }
